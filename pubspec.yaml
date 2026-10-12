@@ -1,0 +1,38 @@
+name: home_gardening
+description: Home Gardening for Beginners - eBook, daily tips and morning reminders.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.3
+  flutter_local_notifications: 17.2.4
+  timezone: ^0.9.4
+  flutter_timezone: ^3.0.0
+  http: ^1.2.2
+  package_info_plus: ^8.0.0
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/chapters.json
+    - assets/tips.json
+    - assets/images/
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/icon.png"
+  adaptive_icon_background: "#2E7D32"
+  adaptive_icon_foreground: "assets/icon/icon_fg.png"

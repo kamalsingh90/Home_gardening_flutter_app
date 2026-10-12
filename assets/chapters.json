@@ -1,0 +1,1589 @@
+[
+ {
+  "num": 0,
+  "title": "Copyright and Important Note",
+  "tagline": "",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "Copyright © 2026. All rights reserved."
+   },
+   {
+    "t": "p",
+    "text": "No part of this publication may be reproduced or distributed for commercial purposes without permission from the copyright holder, except for brief quotations in reviews or other uses permitted by law."
+   },
+   {
+    "t": "h2",
+    "text": "Educational disclaimer"
+   },
+   {
+    "t": "p",
+    "text": "This book provides general gardening information. Plant needs vary by species, cultivar, climate, season, soil, and growing conditions. Product labels and local advice should be checked before applying fertilisers, pesticides, or other treatments. The author and publisher make no guarantee that every recommendation will suit every plant or location."
+   },
+   {
+    "t": "h2",
+    "text": "Safety note"
+   },
+   {
+    "t": "p",
+    "text": "Keep gardening products, sharp tools, and potentially toxic plants away from children and pets. Follow all product instructions and local rules."
+   }
+  ]
+ },
+ {
+  "num": 1,
+  "title": "Welcome to Your Gardening Journey",
+  "tagline": "Gardening begins with observation",
+  "blocks": [
+   {
+    "t": "image",
+    "name": "seedling",
+    "ar": 3.518
+   },
+   {
+    "t": "p",
+    "text": "Gardening is the practice of growing and caring for plants by understanding what they need. You do not need a large garden, expensive equipment, or years of experience. A sunny windowsill, a few containers, and a consistent routine are enough to begin."
+   },
+   {
+    "t": "box",
+    "title": "What you will learn",
+    "children": [
+     {
+      "t": "bullets",
+      "items": [
+       "Choose plants that suit your space, light, local climate, and routine.",
+       "Use a growing medium that holds moisture while allowing air to reach roots.",
+       "Water according to soil moisture and plant needs, not the calendar alone.",
+       "Recognise common signs of stress and respond carefully.",
+       "Create a simple maintenance routine that you can actually keep."
+      ]
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "Start small and build confidence"
+   },
+   {
+    "t": "p",
+    "text": "Begin with two or three plants. Keep a small garden diary with the plant name, location, watering observations, and changes you notice. Small, steady habits teach you more than any single piece of advice, and every healthy leaf is proof that you are learning."
+   },
+   {
+    "t": "tip",
+    "text": "Choose one bright spot at home and put your first plants there. Seeing them every day makes you notice problems early."
+   }
+  ]
+ },
+ {
+  "num": 2,
+  "title": "Plan Your Garden Before You Buy",
+  "tagline": "Study the space",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "Observe your growing area at different times of day. Check direct sunlight, reflected heat, wind, rain exposure, access to water, and the amount of room available. A little observation before buying saves money and prevents disappointment."
+   },
+   {
+    "t": "image",
+    "name": "siteshelf",
+    "ar": 0.19
+   },
+   {
+    "t": "box",
+    "title": "Make a simple site checklist",
+    "children": [
+     {
+      "t": "bullets",
+      "items": [
+       "Track sunlight in the morning, midday, and afternoon.",
+       "Measure the space and keep walkways clear.",
+       "Check drainage after rain.",
+       "Notice hot walls, strong drafts, and windy corners.",
+       "Decide how much time you can spend each week."
+      ]
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "Match plants to real conditions"
+   },
+   {
+    "t": "p",
+    "text": "Choose plants for the conditions you have rather than forcing a plant to live in an unsuitable place. Ask a local nursery about varieties that perform well in your region and season."
+   },
+   {
+    "t": "h2",
+    "text": "Set a realistic budget"
+   },
+   {
+    "t": "p",
+    "text": "Start with healthy plants, a good potting mix, pots with drainage holes, and a few basic tools. Decorative extras can wait. A small, well-cared-for collection looks better than a crowded one."
+   }
+  ]
+ },
+ {
+  "num": 3,
+  "title": "Choosing Beginner-Friendly Plants",
+  "tagline": "Easy plants for a happy start",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "These plants are hardy, low maintenance, and great for beginners. They forgive occasional mistakes and reward you with visible growth."
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "name": "basil",
+      "caption": "Basil — herb"
+     },
+     {
+      "name": "marigold",
+      "caption": "Marigold — flower"
+     },
+     {
+      "name": "snake",
+      "caption": "Snake Plant — indoor"
+     },
+     {
+      "name": "money",
+      "caption": "Money Plant — indoors"
+     },
+     {
+      "name": "tomato",
+      "caption": "Tomato — vegetable"
+     },
+     {
+      "name": "hibiscus",
+      "caption": "Hibiscus — flower"
+     }
+    ]
+   },
+   {
+    "t": "box",
+    "title": "Why these plants?",
+    "children": [
+     {
+      "t": "bullets",
+      "items": [
+       "Adaptable to different conditions.",
+       "Tolerate small mistakes.",
+       "Give quick results and build confidence."
+      ]
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "How to pick a healthy plant"
+   },
+   {
+    "t": "p",
+    "text": "Look for firm stems, evenly coloured leaves, and new growth. Avoid plants with sticky leaves, webbing, spots, or a sour smell from the soil. Gently check that roots are not circling heavily at the bottom of the pot."
+   }
+  ]
+ },
+ {
+  "num": 4,
+  "title": "Essential Tools and Materials",
+  "tagline": "Start with the basics",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "You can begin with a small, useful toolkit. Buy durable basics first; specialised tools can wait."
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "name": "trowel",
+      "caption": "Hand trowel — moving soil"
+     },
+     {
+      "name": "shears",
+      "caption": "Pruning shears — trimming"
+     },
+     {
+      "name": "can",
+      "caption": "Watering can — gentle rose"
+     },
+     {
+      "name": "gloves",
+      "caption": "Gardening gloves — protection"
+     },
+     {
+      "name": "pot",
+      "caption": "Pots and saucers — with drainage"
+     },
+     {
+      "name": "labels",
+      "caption": "Labels and pencil — identify plants"
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "Also useful"
+   },
+   {
+    "t": "bullets",
+    "items": [
+     "A small bucket or tray for mixing soil.",
+     "A spray bottle for misting seedlings and leaves.",
+     "A hand fork for loosening compacted soil.",
+     "Clean scissors for harvesting herbs."
+    ]
+   },
+   {
+    "t": "tip",
+    "text": "Keep your tools clean and sharp for better results and healthier plants. Wipe blades after use and dry them before storing."
+   }
+  ]
+ },
+ {
+  "num": 5,
+  "title": "Understanding Soil and Potting Mix",
+  "tagline": "Healthy soil = healthy plants",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "Good soil provides nutrients, holds moisture, and allows air to reach the roots."
+   },
+   {
+    "t": "image",
+    "name": "soil",
+    "ar": 0.325
+   },
+   {
+    "t": "h2",
+    "text": "Soil components"
+   },
+   {
+    "t": "bullets",
+    "items": [
+     "<b>Topsoil</b> – nutrients and structure.",
+     "<b>Compost</b> – organic matter and microbes.",
+     "<b>Sand</b> – drainage and aeration.",
+     "<b>Coco peat</b> – moisture retention."
+    ]
+   },
+   {
+    "t": "box",
+    "title": "A simple all-purpose potting mix",
+    "children": [
+     {
+      "t": "p",
+      "text": "Mix roughly <b>2 parts garden soil, 1 part compost, and 1 part coco peat</b>, adding a handful of coarse sand for drainage. For succulents and snake plants, use more sand."
+     }
+    ]
+   },
+   {
+    "t": "box",
+    "title": "Ideal pH for most plants: 6.0 – 7.0",
+    "children": [
+     {
+      "t": "p",
+      "text": "pH measures how acidic or alkaline the soil is. Most vegetables, herbs, and flowers prefer slightly acidic to neutral soil. Inexpensive test kits are available at garden stores."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "num": 6,
+  "title": "Compost and Organic Matter",
+  "tagline": "Feed the soil, not just the plant",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "Compost improves soil structure, provides nutrients, and supports beneficial microbes."
+   },
+   {
+    "t": "image",
+    "name": "compost",
+    "ar": 0.612
+   },
+   {
+    "t": "h2",
+    "text": "Composting at home"
+   },
+   {
+    "t": "bullets",
+    "items": [
+     "Use kitchen and garden waste.",
+     "Keep it moist, not soggy.",
+     "Turn it regularly for airflow.",
+     "Use in 2–3 months."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "What to add"
+   },
+   {
+    "t": "table",
+    "head": [
+     "Greens (nitrogen)",
+     "Browns (carbon)"
+    ],
+    "rows": [
+     [
+      "Vegetable peels, tea leaves, fresh grass clippings",
+      "Dry leaves, shredded paper, cardboard"
+     ],
+     [
+      "Coffee grounds, fruit scraps",
+      "Straw, sawdust (small amounts)"
+     ]
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "What to avoid"
+   },
+   {
+    "t": "p",
+    "text": "Meat, fish, dairy, oily foods, and pet waste attract pests and cause odours. Aim for roughly twice as much brown material as green."
+   },
+   {
+    "t": "tip",
+    "text": "Good compost = healthier plants + better soil. Finished compost looks dark and crumbly and smells earthy."
+   }
+  ]
+ },
+ {
+  "num": 7,
+  "title": "Containers, Drainage, and Repotting",
+  "tagline": "Give roots room to grow",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "Containers should have drainage holes to prevent waterlogging. Choose the right size and repot when roots outgrow the pot."
+   },
+   {
+    "t": "image",
+    "name": "pots",
+    "ar": 0.276
+   },
+   {
+    "t": "h2",
+    "text": "Choosing a container"
+   },
+   {
+    "t": "table",
+    "head": [
+     "Material",
+     "Good for",
+     "Watch out for"
+    ],
+    "rows": [
+     [
+      "Terracotta",
+      "Succulents, herbs",
+      "Dries quickly; water more often"
+     ],
+     [
+      "Plastic",
+      "Most houseplants, vegetables",
+      "Can overheat in direct sun"
+     ],
+     [
+      "Ceramic (glazed)",
+      "Indoor decor",
+      "Check for drainage holes"
+     ]
+    ]
+   },
+   {
+    "t": "box",
+    "title": "Repotting tips",
+    "children": [
+     {
+      "t": "bullets",
+      "items": [
+       "Use fresh potting mix.",
+       "Handle roots gently.",
+       "Water after repotting.",
+       "Move up only one pot size (about 2–4 cm wider)."
+      ]
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "text": "Signs a plant needs a bigger pot: roots poking out of drainage holes, water running straight through, or slowed growth despite good care."
+   }
+  ]
+ },
+ {
+  "num": 8,
+  "title": "Watering Plants Correctly",
+  "tagline": "The right amount, at the right time",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "Overwatering and underwatering are the most common mistakes. Learn to read the soil rather than following a rigid schedule."
+   },
+   {
+    "t": "image",
+    "name": "watering",
+    "ar": 1.463
+   },
+   {
+    "t": "box",
+    "title": "Quick guide",
+    "children": [
+     {
+      "t": "bullets",
+      "items": [
+       "Check soil moisture (top 2–3 cm).",
+       "Water early morning or late evening.",
+       "Use room temperature water.",
+       "Ensure proper drainage."
+      ]
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "The finger test"
+   },
+   {
+    "t": "p",
+    "text": "Push a finger about 2–3 cm into the soil. If it feels dry, water thoroughly until it drains from the bottom. If it feels damp, wait a day and check again. Succulents and snake plants prefer to dry out completely between waterings."
+   },
+   {
+    "t": "h2",
+    "text": "Signs to watch"
+   },
+   {
+    "t": "table",
+    "head": [
+     "Too much water",
+     "Too little water"
+    ],
+    "rows": [
+     [
+      "Yellow, soft leaves; musty smell; mould on soil",
+      "Crispy brown edges; drooping that recovers after watering"
+     ],
+     [
+      "Fungus gnats; mushy stems",
+      "Soil pulling away from the pot edge"
+     ]
+    ]
+   },
+   {
+    "t": "tip",
+    "text": "Observe changes early and adjust care before the problem grows."
+   }
+  ]
+ },
+ {
+  "num": 9,
+  "title": "Sunlight, Shade, and Placement",
+  "tagline": "Light helps plants grow",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "Different plants need different light levels. Match each plant to the light it receives and it will need far less rescue later."
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "name": "sun_full",
+      "caption": "Full sun — 6+ hours"
+     },
+     {
+      "name": "sun_part",
+      "caption": "Partial shade — 3–6 hours"
+     },
+     {
+      "name": "sun_low",
+      "caption": "Low light — 1–3 hours"
+     }
+    ]
+   },
+   {
+    "t": "table",
+    "head": [
+     "Light level",
+     "Example plants",
+     "Where to place"
+    ],
+    "rows": [
+     [
+      "Full sun (6+ hours)",
+      "Tomato, marigold, hibiscus, tulsi",
+      "South-facing balcony, open terrace"
+     ],
+     [
+      "Partial shade (3–6 hours)",
+      "Ferns, peace lily, mint, coriander",
+      "East-facing window, shaded balcony"
+     ],
+     [
+      "Low light (1–3 hours)",
+      "Snake plant, pothos, ZZ plant",
+      "North-facing room, away from windows"
+     ]
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "Reading the signs"
+   },
+   {
+    "t": "p",
+    "text": "Stretched, pale growth usually means too little light. Scorched, bleached patches suggest too much. Rotate pots a quarter turn each week for even growth."
+   },
+   {
+    "t": "tip",
+    "text": "Observe how plants respond and adjust placement if needed."
+   }
+  ]
+ },
+ {
+  "num": 10,
+  "title": "Temperature, Wind, and Humidity",
+  "tagline": "Keep the environment comfortable",
+  "blocks": [
+   {
+    "t": "box",
+    "title": "Comfort zone",
+    "children": [
+     {
+      "t": "bullets",
+      "items": [
+       "Most plants grow well between <b>15–30°C (59–86°F)</b>.",
+       "Protect from strong winds and heat waves.",
+       "Maintain humidity for tropical plants (use a humidifier or mist)."
+      ]
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "Heat and summer care"
+   },
+   {
+    "t": "p",
+    "text": "During North Indian summers, temperatures can exceed 40°C. Move delicate pots out of afternoon sun, group plants together to share humidity, water in the early morning, and use mulch to keep roots cooler."
+   },
+   {
+    "t": "h2",
+    "text": "Cold and winter care"
+   },
+   {
+    "t": "p",
+    "text": "Most tropical houseplants dislike temperatures below 10°C. Keep them away from cold windows at night, reduce watering, and avoid placing them near heaters or air-conditioning vents."
+   },
+   {
+    "t": "h2",
+    "text": "Wind"
+   },
+   {
+    "t": "p",
+    "text": "Wind dries leaves and soil quickly. On high balconies, use screens, heavy pots, and sturdy stakes for tall plants."
+   },
+   {
+    "t": "h2",
+    "text": "Humidity"
+   },
+   {
+    "t": "p",
+    "text": "Tropical plants such as ferns and calatheas appreciate higher humidity. Place pots on a tray of damp pebbles, and avoid misting at night to reduce fungal problems."
+   }
+  ]
+ },
+ {
+  "num": 11,
+  "title": "Fertilising Without Overfeeding",
+  "tagline": "Nutrients for steady growth",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "Use organic compost or balanced fertiliser. Overfeeding can harm roots and leaves, so it is better to under-feed than over-feed."
+   },
+   {
+    "t": "h2",
+    "text": "Types of fertilisers"
+   },
+   {
+    "t": "table",
+    "head": [
+     "Type",
+     "Examples",
+     "Best for"
+    ],
+    "rows": [
+     [
+      "Organic",
+      "Compost, vermicompost, well-rotted manure",
+      "Long-term soil health"
+     ],
+     [
+      "Liquid",
+      "Diluted seaweed or balanced liquid feed",
+      "Quick results during growth"
+     ],
+     [
+      "Granular",
+      "Slow-release pellets",
+      "Long-lasting feeding (1–3 months)"
+     ]
+    ]
+   },
+   {
+    "t": "box",
+    "title": "Feeding rules of thumb",
+    "children": [
+     {
+      "t": "bullets",
+      "items": [
+       "Always follow the label dose; when unsure, use half.",
+       "Feed only actively growing plants, mainly in spring and monsoon.",
+       "Water the soil first; never feed a dry, stressed plant.",
+       "Pause feeding in extreme heat and in winter dormancy."
+      ]
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "Signs of overfeeding"
+   },
+   {
+    "t": "p",
+    "text": "White crust on the soil surface, brown leaf tips, and sudden leaf drop. If this happens, flush the pot with plenty of clean water and pause feeding for a few weeks."
+   }
+  ]
+ },
+ {
+  "num": 12,
+  "title": "Pruning, Cleaning, and Routine Care",
+  "tagline": "Healthy plants need regular care",
+  "blocks": [
+   {
+    "t": "box",
+    "title": "Your routine",
+    "children": [
+     {
+      "t": "bullets",
+      "items": [
+       "<b>Remove dead leaves and flowers</b> – saves energy and prevents disease.",
+       "<b>Prune for better shape and growth</b> – cut just above a leaf node.",
+       "<b>Clean leaves from dust</b> – a damp cloth helps leaves absorb light.",
+       "<b>Check for pests and diseases</b> – look under leaves and along stems."
+      ]
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "How to prune"
+   },
+   {
+    "t": "bullets",
+    "items": [
+     "Use clean, sharp shears (wipe with rubbing alcohol).",
+     "Cut at a slight angle, just above a node or branch.",
+     "Remove no more than one-third of a plant at once.",
+     "Prune flowering plants after the bloom, unless advised otherwise."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "Deadheading"
+   },
+   {
+    "t": "p",
+    "text": "Pinching off spent flowers encourages marigolds, petunias, and roses to keep blooming. Pinching the tips of basil and mint creates bushier plants."
+   },
+   {
+    "t": "tip",
+    "text": "Set a weekly 10-minute garden walk. Regular small checks prevent most big problems."
+   }
+  ]
+ },
+ {
+  "num": 13,
+  "title": "Recognising Plant Stress",
+  "tagline": "Spot problems early",
+  "blocks": [
+   {
+    "t": "table",
+    "head": [
+     "Symptom",
+     "Possible cause"
+    ],
+    "rows": [
+     [
+      "Yellow leaves",
+      "Overwatering, lack of nutrients"
+     ],
+     [
+      "Brown tips",
+      "More sunlight and less nitrogen; dry air"
+     ],
+     [
+      "Drooping leaves",
+      "Underwatering, heat stress, or root rot"
+     ],
+     [
+      "Stunted growth",
+      "Poor soil, lack of light, small pot"
+     ],
+     [
+      "Wilts on leaves",
+      "Check roots and watering"
+     ]
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "A simple diagnosis order"
+   },
+   {
+    "t": "bullets",
+    "items": [
+     "<b>Light:</b> is the plant getting what it needs?",
+     "<b>Water:</b> check soil moisture and drainage.",
+     "<b>Roots:</b> healthy roots are pale and firm, not brown and mushy.",
+     "<b>Pests:</b> inspect both sides of leaves.",
+     "<b>Nutrients:</b> only after the above are ruled out."
+    ]
+   },
+   {
+    "t": "p",
+    "text": "Change one thing at a time and wait a week or two before judging the result. Plants respond slowly, and constant changes make it difficult to learn what worked."
+   },
+   {
+    "t": "tip",
+    "text": "Observe changes early and adjust care before the problem gets worse."
+   }
+  ]
+ },
+ {
+  "num": 14,
+  "title": "Common Pests and Plant Diseases",
+  "tagline": "Prevention first, gentle treatment second",
+  "blocks": [
+   {
+    "t": "table",
+    "head": [
+     "Problem",
+     "What you see",
+     "Gentle response"
+    ],
+    "rows": [
+     [
+      "Aphids",
+      "Clusters of tiny insects on new growth",
+      "Spray with water; use neem oil solution"
+     ],
+     [
+      "Spider mites",
+      "Fine webbing; yellow speckles",
+      "Raise humidity; wipe leaves; neem oil"
+     ],
+     [
+      "Mealybugs",
+      "White cottony patches",
+      "Dab with alcohol-soaked cotton bud"
+     ],
+     [
+      "Whiteflies",
+      "Tiny white insects flutter when disturbed",
+      "Yellow sticky traps; soapy water"
+     ],
+     [
+      "Powdery mildew",
+      "White powder on leaves",
+      "Improve airflow; remove affected leaves"
+     ],
+     [
+      "Root rot",
+      "Mushy brown roots; wilting despite wet soil",
+      "Repot into fresh mix; trim rotted roots"
+     ]
+    ]
+   },
+   {
+    "t": "box",
+    "title": "Natural pest control",
+    "children": [
+     {
+      "t": "bullets",
+      "items": [
+       "<b>Neem oil spray:</b> follow the product label; spray in the evening.",
+       "<b>Soap water:</b> a few drops of mild soap in water, tested on one leaf first.",
+       "<b>Remove affected leaves</b> and isolate new plants for a week."
+      ]
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "text": "Healthy plants resist pests better. Good light, correct watering, and airflow are your first line of defence. Always read product labels before using any treatment."
+   }
+  ]
+ },
+ {
+  "num": 15,
+  "title": "Indoor Gardening",
+  "tagline": "Bring nature inside",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "Indoor plants improve the look and feel of your home and bring a sense of calm. Success depends mainly on light, so start by choosing plants for the brightest spot you have."
+   },
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "name": "snake",
+      "caption": "Snake Plant — low light"
+     },
+     {
+      "name": "money",
+      "caption": "Money Plant — easy climber"
+     },
+     {
+      "name": "basil",
+      "caption": "Basil — bright window"
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "Indoor care essentials"
+   },
+   {
+    "t": "bullets",
+    "items": [
+     "Place plants within 1–2 metres of a bright window.",
+     "Water only when the top few centimetres of soil are dry.",
+     "Wipe leaves monthly and rotate pots weekly.",
+     "Keep plants away from air-conditioner and heater vents.",
+     "Use pots with drainage holes and empty saucers after watering."
+    ]
+   },
+   {
+    "t": "tip",
+    "text": "Neem oil spray, soap water, and removing affected leaves help keep indoor plants healthy."
+   }
+  ]
+ },
+ {
+  "num": 16,
+  "title": "Balcony and Small-Space Gardening",
+  "tagline": "Green even in small spaces",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "Use vertical space, hanging pots, and compact plants. A balcony garden works best when it is organised in layers."
+   },
+   {
+    "t": "image",
+    "name": "siteshelf",
+    "ar": 0.19
+   },
+   {
+    "t": "box",
+    "title": "Design tips",
+    "children": [
+     {
+      "t": "bullets",
+      "items": [
+       "Use layers (tall, medium, low plants).",
+       "Create walkways.",
+       "Add colour and texture.",
+       "Use stones, mulch, and borders."
+      ]
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "Space-saving ideas"
+   },
+   {
+    "t": "bullets",
+    "items": [
+     "Railing planters and wall-mounted pockets.",
+     "Tiered shelves or ladders for pots.",
+     "Hanging baskets for trailing plants.",
+     "Lightweight pots to protect the balcony load."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "Balcony cautions"
+   },
+   {
+    "t": "p",
+    "text": "Check weight limits, avoid blocking drains, and secure pots against wind. Place saucers carefully so excess water does not drip onto neighbours below."
+   }
+  ]
+ },
+ {
+  "num": 17,
+  "title": "Herbs and Edible Plants at Home",
+  "tagline": "Fresh, healthy, and tasty",
+  "blocks": [
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "name": "basil",
+      "caption": "Basil — sun, regular water"
+     },
+     {
+      "name": "tomato",
+      "caption": "Tomato — full sun, support"
+     },
+     {
+      "name": "marigold",
+      "caption": "Marigold — companion plant"
+     }
+    ]
+   },
+   {
+    "t": "table",
+    "head": [
+     "Plant",
+     "Light",
+     "Tips"
+    ],
+    "rows": [
+     [
+      "Basil",
+      "5–6 hrs sun",
+      "Pinch tips to encourage bushy growth"
+     ],
+     [
+      "Mint",
+      "Partial shade",
+      "Grow in its own pot; it spreads quickly"
+     ],
+     [
+      "Coriander",
+      "Cool season, 4–5 hrs",
+      "Sow seeds every 2 weeks for steady supply"
+     ],
+     [
+      "Chilli",
+      "Full sun",
+      "Feed lightly when flowering"
+     ],
+     [
+      "Tomato",
+      "Full sun",
+      "Use stakes; water evenly"
+     ],
+     [
+      "Lettuce",
+      "Cool season",
+      "Harvest outer leaves first"
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "text": "Harvest little and often. Use clean scissors, and cut just above a pair of leaves. Wash everything before eating."
+   },
+   {
+    "t": "tip",
+    "text": "Use good soil, plenty of sunlight, and regular watering for better results."
+   }
+  ]
+ },
+ {
+  "num": 18,
+  "title": "Flowers and Colour Through the Year",
+  "tagline": "Plant at the right time",
+  "blocks": [
+   {
+    "t": "gallery",
+    "items": [
+     {
+      "name": "marigold",
+      "caption": "Marigold — winter–spring"
+     },
+     {
+      "name": "hibiscus",
+      "caption": "Hibiscus — year-round"
+     },
+     {
+      "name": "sun_full",
+      "caption": "Zinnia & garden mix — summer"
+     }
+    ]
+   },
+   {
+    "t": "table",
+    "head": [
+     "Flower",
+     "Season",
+     "Notes"
+    ],
+    "rows": [
+     [
+      "Marigold",
+      "Spring and autumn sowing",
+      "Easy; sun-loving; deadhead regularly"
+     ],
+     [
+      "Petunia",
+      "Winter",
+      "Needs sun; pinch tips for fullness"
+     ],
+     [
+      "Chrysanthemum",
+      "Autumn",
+      "Pinch tips early in the season"
+     ],
+     [
+      "Dahlia",
+      "Autumn–winter",
+      "Stake tall varieties"
+     ],
+     [
+      "Pansy",
+      "Winter",
+      "Cool-season colour; keep moist"
+     ],
+     [
+      "Hibiscus",
+      "Year-round",
+      "Likes sun and regular feeding"
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "text": "Plan a mix of plants that bloom in different seasons so something is always in flower. Combine tall, medium, and trailing plants in the same area to create layers of colour."
+   },
+   {
+    "t": "tip",
+    "text": "Deadhead spent blooms and feed lightly to keep flowers coming."
+   }
+  ]
+ },
+ {
+  "num": 19,
+  "title": "Seasonal Gardening in North India",
+  "tagline": "Grow with the seasons",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "North India has distinct seasons: cool winters, a dry spring, very hot summers, and a humid monsoon. Choosing the right plants for each season is the secret of an easy garden."
+   },
+   {
+    "t": "table",
+    "head": [
+     "Season",
+     "Good choices",
+     "Care focus"
+    ],
+    "rows": [
+     [
+      "Winter\n(Nov–Feb)",
+      "Pansy, petunia, dahlia, coriander, lettuce, peas",
+      "Protect from frost; water less"
+     ],
+     [
+      "Spring\n(Feb–Mar)",
+      "Marigold, zinnia, tomato, chilli seedlings",
+      "Feed lightly; start new seeds"
+     ],
+     [
+      "Summer\n(Apr–Jun)",
+      "Tulsi, okra, hibiscus, portulaca, succulents",
+      "Shade at midday; water early; mulch"
+     ],
+     [
+      "Monsoon\n(Jul–Sep)",
+      "Balsam, coleus, herbs, cuttings",
+      "Ensure drainage; watch for fungus"
+     ],
+     [
+      "Autumn\n(Oct–Nov)",
+      "Chrysanthemum, marigold, winter seed sowing",
+      "Prepare soil; refresh pots"
+     ]
+    ]
+   },
+   {
+    "t": "box",
+    "title": "Heat wave checklist",
+    "children": [
+     {
+      "t": "bullets",
+      "items": [
+       "Move small pots out of direct afternoon sun.",
+       "Water in the morning, and check again in the evening.",
+       "Use mulch and shade cloth for sensitive plants.",
+       "Group pots together and sit them on trays of damp pebbles."
+      ]
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "text": "Local conditions vary across Delhi, Punjab, Uttar Pradesh, Haryana and the hills. Your local nursery is the best guide to the sowing dates that work in your area."
+   }
+  ]
+ },
+ {
+  "num": 20,
+  "title": "Propagation: Growing New Plants",
+  "tagline": "Multiply your favourites",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "Propagation lets you make new plants from ones you already have. It is inexpensive, rewarding, and a great way to share plants with friends."
+   },
+   {
+    "t": "h2",
+    "text": "Methods"
+   },
+   {
+    "t": "table",
+    "head": [
+     "Method",
+     "Plants",
+     "How"
+    ],
+    "rows": [
+     [
+      "Stem cuttings",
+      "Money plant, basil, coleus",
+      "Cut below a node; place in water or moist mix"
+     ],
+     [
+      "Leaf cuttings",
+      "Succulents, begonia",
+      "Lay or plant a healthy leaf in dry mix"
+     ],
+     [
+      "Seeds",
+      "Flowers, vegetables",
+      "Sow at the right depth; keep evenly moist"
+     ],
+     [
+      "Division",
+      "Spider plant, mint",
+      "Split a crowded plant at the roots"
+     ]
+    ]
+   },
+   {
+    "t": "box",
+    "title": "Stem cutting step by step",
+    "children": [
+     {
+      "t": "bullets",
+      "items": [
+       "Choose a healthy stem 10–15 cm long.",
+       "Cut just below a node and remove lower leaves.",
+       "Place in clean water or damp potting mix.",
+       "Keep in bright, indirect light and change the water weekly.",
+       "Pot up once roots are 3–5 cm long."
+      ]
+     }
+    ]
+   },
+   {
+    "t": "tip",
+    "text": "Ensure steady warmth and moisture, and be patient. Roots can take two to four weeks to appear."
+   }
+  ]
+ },
+ {
+  "num": 21,
+  "title": "Simple Garden Design and Landscaping",
+  "tagline": "Create beautiful green spaces",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "A good garden design is simple. Think about how you will use the space, how you will move through it, and what you want to see from your favourite window or seat."
+   },
+   {
+    "t": "image",
+    "name": "cover",
+    "ar": 0.418
+   },
+   {
+    "t": "h2",
+    "text": "Five simple design principles"
+   },
+   {
+    "t": "bullets",
+    "items": [
+     "<b>Layers:</b> tall plants at the back, medium in the middle, low at the front.",
+     "<b>Repetition:</b> repeat a few plants or colours for harmony.",
+     "<b>Focal point:</b> one standout pot, plant, or seating spot.",
+     "<b>Pathways:</b> leave room to walk and tend plants.",
+     "<b>Odd numbers:</b> groups of three or five look natural."
+    ]
+   },
+   {
+    "t": "p",
+    "text": "Mix foliage plants with flowering ones so colour lasts through the seasons. Use pots in a few matching shades or materials to keep a small space calm and tidy."
+   }
+  ]
+ },
+ {
+  "num": 22,
+  "title": "Sustainable Gardening and Water Saving",
+  "tagline": "Good for plants, good for the planet",
+  "blocks": [
+   {
+    "t": "bullets",
+    "items": [
+     "<b>Mulch</b> soil with dry leaves or straw to reduce evaporation.",
+     "<b>Water early</b> in the morning to limit losses.",
+     "<b>Collect</b> rainwater or reuse RO reject water for non-edible plants.",
+     "<b>Compost</b> kitchen waste instead of discarding it.",
+     "<b>Reuse</b> containers such as tins, buckets, and crates (add drainage holes).",
+     "<b>Choose native and hardy plants</b> that need less water."
+    ]
+   },
+   {
+    "t": "box",
+    "title": "Simple water-saving habits",
+    "children": [
+     {
+      "t": "p",
+      "text": "Water the soil, not the leaves. Group plants with similar needs together. Use saucers to catch excess water, and check soil moisture before every watering."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "text": "Avoid unnecessary chemicals. Healthy soil, diverse plantings, and flowers that attract pollinators create a garden that largely looks after itself."
+   },
+   {
+    "t": "tip",
+    "text": "Reusing water from washing vegetables is an easy way to water ornamental plants."
+   }
+  ]
+ },
+ {
+  "num": 23,
+  "title": "Troubleshooting Guide",
+  "tagline": "Quick answers to common problems",
+  "blocks": [
+   {
+    "t": "table",
+    "head": [
+     "Problem",
+     "Likely cause",
+     "What to do"
+    ],
+    "rows": [
+     [
+      "Leaves yellowing",
+      "Overwatering or poor drainage",
+      "Let soil dry; check drainage holes"
+     ],
+     [
+      "Brown crispy edges",
+      "Underwatering, dry air, heat",
+      "Water deeply; move from hot windows"
+     ],
+     [
+      "Leggy, pale growth",
+      "Not enough light",
+      "Move to a brighter spot"
+     ],
+     [
+      "No flowers",
+      "Too little light or too much nitrogen",
+      "Increase sunlight; use bloom feed"
+     ],
+     [
+      "Drooping after watering",
+      "Root rot",
+      "Check roots; repot into fresh mix"
+     ],
+     [
+      "Sticky leaves",
+      "Aphids, scale, or mealybugs",
+      "Wipe leaves; apply neem solution"
+     ],
+     [
+      "White crust on soil",
+      "Fertiliser or mineral build-up",
+      "Flush with plenty of clean water"
+     ],
+     [
+      "Fungus gnats",
+      "Constantly wet soil",
+      "Let the top layer dry; add sticky traps"
+     ]
+    ]
+   },
+   {
+    "t": "tip",
+    "text": "Observe changes early, adjust one factor at a time, and be patient. Most plants recover well."
+   }
+  ]
+ },
+ {
+  "num": 24,
+  "title": "A 30-Day Beginner Gardening Plan",
+  "tagline": "Small daily steps, big results",
+  "blocks": [
+   {
+    "t": "table",
+    "head": [
+     "Days",
+     "Focus",
+     "Action"
+    ],
+    "rows": [
+     [
+      "1–3",
+      "Observe",
+      "Track sunlight and choose your spot"
+     ],
+     [
+      "4–7",
+      "Gather",
+      "Buy a few plants, pots, mix, and basic tools"
+     ],
+     [
+      "8–10",
+      "Plant",
+      "Pot up with fresh mix; water well"
+     ],
+     [
+      "11–14",
+      "Establish",
+      "Watch moisture; keep a diary"
+     ],
+     [
+      "15–20",
+      "Care",
+      "Remove dead leaves; clean foliage; rotate pots"
+     ],
+     [
+      "21–25",
+      "Feed & protect",
+      "Light feeding; check for pests"
+     ],
+     [
+      "26–30",
+      "Review",
+      "Note what thrives, adjust, and add one new plant"
+     ]
+    ]
+   },
+   {
+    "t": "box",
+    "title": "At the end of 30 days you should have",
+    "children": [
+     {
+      "t": "bullets",
+      "items": [
+       "A small collection of healthy plants.",
+       "A watering and care routine that fits your life.",
+       "A diary of what works in your space.",
+       "The confidence to expand your garden."
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "num": 25,
+  "title": "Weekly and Monthly Checklists",
+  "tagline": "Build the habit",
+  "blocks": [
+   {
+    "t": "h2",
+    "text": "Weekly checklist"
+   },
+   {
+    "t": "bullets",
+    "items": [
+     "Water plants as needed.",
+     "Check for pests.",
+     "Remove dead leaves.",
+     "Lightly feed (growth season).",
+     "Clean leaves."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "Monthly checklist"
+   },
+   {
+    "t": "bullets",
+    "items": [
+     "Repot if needed.",
+     "Prune and shape.",
+     "Check soil pH / refresh topsoil.",
+     "Refresh compost or mulch.",
+     "Plan the next season."
+    ]
+   }
+  ]
+ },
+ {
+  "num": 26,
+  "title": "Gardening Glossary",
+  "tagline": "Words every gardener meets",
+  "blocks": [
+   {
+    "t": "table",
+    "head": [
+     "Term",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "Compost",
+      "decomposed organic matter used to enrich soil."
+     ],
+     [
+      "Deadheading",
+      "removing spent flowers to encourage more blooms."
+     ],
+     [
+      "Drainage",
+      "the ability of soil or a pot to let excess water escape."
+     ],
+     [
+      "Fungicide",
+      "a product that controls fungal disease."
+     ],
+     [
+      "Humidity",
+      "the amount of moisture in the air."
+     ],
+     [
+      "Mulch",
+      "a layer on soil that retains moisture and suppresses weeds."
+     ],
+     [
+      "Node",
+      "the point on a stem where leaves or branches grow."
+     ],
+     [
+      "pH",
+      "a measure of soil acidity or alkalinity."
+     ],
+     [
+      "Potting mix",
+      "a light soil blend designed for containers."
+     ],
+     [
+      "Propagation",
+      "growing new plants from seeds or cuttings."
+     ],
+     [
+      "Root bound",
+      "roots circling tightly in a pot with no room to grow."
+     ],
+     [
+      "Transplant",
+      "to move a plant to a larger pot or a new location."
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "num": 27,
+  "title": "Frequently Asked Questions",
+  "tagline": "Quick answers for new gardeners",
+  "blocks": [
+   {
+    "t": "p",
+    "text": "Q: <b>How much sunlight do most plants need?</b>"
+   },
+   {
+    "t": "p",
+    "text": "A: Most flowering and fruiting plants need 4–6 hours of direct sun. Foliage plants often do well in bright, indirect light."
+   },
+   {
+    "t": "p",
+    "text": "Q: <b>Can I grow vegetables in containers?</b>"
+   },
+   {
+    "t": "p",
+    "text": "A: Yes. Many vegetables grow well in containers, including tomato, chilli, coriander, lettuce, and spinach. Use a pot at least 25–30 cm deep for larger plants."
+   },
+   {
+    "t": "p",
+    "text": "Q: <b>How often should I fertilise?</b>"
+   },
+   {
+    "t": "p",
+    "text": "A: Generally every 2–4 weeks during active growth, using a diluted feed. Pause in extreme heat and winter dormancy."
+   },
+   {
+    "t": "p",
+    "text": "Q: <b>What is the best time to water?</b>"
+   },
+   {
+    "t": "p",
+    "text": "A: Early morning or late evening, when water loss is lowest."
+   },
+   {
+    "t": "p",
+    "text": "Q: <b>Why are my plant leaves turning yellow?</b>"
+   },
+   {
+    "t": "p",
+    "text": "A: Overwatering is the most common cause; also consider poor drainage, low light, or lack of nutrients."
+   },
+   {
+    "t": "p",
+    "text": "Q: <b>What is the best time to plant?</b>"
+   },
+   {
+    "t": "p",
+    "text": "A: Early morning or evening, and in the right season for the plant, so that it can settle before extremes of weather."
+   }
+  ]
+ },
+ {
+  "num": 28,
+  "title": "Final Tips for Long-Term Success",
+  "tagline": "Grow with patience",
+  "blocks": [
+   {
+    "t": "bullets",
+    "items": [
+     "Be patient and consistent.",
+     "Observe your plants regularly.",
+     "Learn from mistakes; every gardener loses a few plants.",
+     "Keep a gardening journal.",
+     "Start small and expand gradually.",
+     "Enjoy the process!"
+    ]
+   },
+   {
+    "t": "image",
+    "name": "compost",
+    "ar": 0.612
+   },
+   {
+    "t": "quote",
+    "text": "A greener home is a happier home."
+   },
+   {
+    "t": "p",
+    "text": "Thank you for choosing this guide. Happy gardening!"
+   }
+  ]
+ }
+]
