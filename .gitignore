@@ -1,0 +1,23 @@
+Flutter and Dart
+
+.dart_tool/ .packages .pub/ build/ .flutter-plugins .flutter-plugins-dependencies
+
+IDE files
+
+.idea/ .vscode/ *.iml
+
+Environment and secrets
+
+.env
+
+Android build files
+
+android/.gradle/ android/local.properties android/key.properties
+
+iOS build files
+
+ios/Pods/ ios/.symlinks/ ios/Flutter/Flutter.framework/ ios/Flutter/Flutter.podspec
+
+Logs
+
+*.log
